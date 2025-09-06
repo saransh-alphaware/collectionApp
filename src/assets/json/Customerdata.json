@@ -1,0 +1,252 @@
+[
+  {
+    "customerId": "987654321",
+    "customerName": "Alice Smith",
+    "customerProducts": [
+      {
+        "productId": "CHK123",
+        "productName": "FD",
+        "balance": 5000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV123",
+        "productName": "MIS",
+        "balance": 10000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC123",
+        "productName": "RD",
+        "creditLimit": 5000.00,
+        "currency": "USD",
+        "balance": 2500.00
+      }
+    ]
+  },
+  {
+    "customerId": "123456789",
+    "customerName": "Bob Johnson",
+    "customerProducts": [
+      {
+        "productId": "CHK456",
+        "productName": "RD",
+        "balance": 7500.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV456",
+        "productName": "DDS",
+        "balance": 15000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC456",
+        "productName": "Loan",
+        "creditLimit": 8000.00,
+        "currency": "USD",
+        "balance": 3500.00
+      }
+    ]
+  },
+  {
+    "customerId": "135792468",
+    "customerName": "Emily Davis",
+    "customerProducts": [
+      {
+        "productId": "CHK789",
+        "productName": "RD",
+        "balance": 3200.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV789",
+        "productName": "DDS",
+        "balance": 18000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC789",
+        "productName": "Loan",
+        "creditLimit": 6000.00,
+        "currency": "USD",
+        "balance": 1500.00
+      }
+    ]
+  },
+  {
+    "customerId": "246813579",
+    "customerName": "Michael Brown",
+    "customerProducts": [
+      {
+        "productId": "CHK246",
+        "productName": "RD",
+        "balance": 6200.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV246",
+        "productName": "DDS",
+        "balance": 25000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC246",
+        "productName": "Loan",
+        "creditLimit": 7000.00,
+        "currency": "USD",
+        "balance": 2000.00
+      }
+    ]
+  },
+  {
+    "customerId": "369258147",
+    "customerName": "Sophia Martinez",
+    "customerProducts": [
+      {
+        "productId": "CHK369",
+        "productName": "RD",
+        "balance": 8500.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV369",
+        "productName": "DDS",
+        "balance": 30000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC369",
+        "productName": "Loan",
+        "creditLimit": 10000.00,
+        "currency": "USD",
+        "balance": 500.00
+      }
+    ]
+  },
+  {
+    "customerId": "582469137",
+    "customerName": "Ethan Wilson",
+    "customerProducts": [
+      {
+        "productId": "CHK582",
+        "productName": "RD",
+        "balance": 4500.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV582",
+        "productName": "DDS",
+        "balance": 22000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC582",
+        "productName": "Loan",
+        "creditLimit": 5500.00,
+        "currency": "USD",
+        "balance": 2800.00
+      }
+    ]
+  },
+  {
+    "customerId": "798465132",
+    "customerName": "Olivia Taylor",
+    "customerProducts": [
+      {
+        "productId": "CHK798",
+        "productName": "RD",
+        "balance": 7200.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV798",
+        "productName": "DDS",
+        "balance": 27000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC798",
+        "productName": "Loan",
+        "creditLimit": 9000.00,
+        "currency": "USD",
+        "balance": 600.00
+      }
+    ]
+  },
+  {
+    "customerId": "159753486",
+    "customerName": "Daniel Anderson",
+    "customerProducts": [
+      {
+        "productId": "CHK159",
+        "productName": "RD",
+        "balance": 6300.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV159",
+        "productName": "DDS",
+        "balance": 35000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC159",
+        "productName": "Loan",
+        "creditLimit": 11000.00,
+        "currency": "USD",
+        "balance": 2300.00
+      }
+    ]
+  },
+  {
+    "customerId": "654321987",
+    "customerName": "Ava Miller",
+    "customerProducts": [
+      {
+        "productId": "CHK654",
+        "productName": "RD",
+        "balance": 5700.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV654",
+        "productName": "DDS",
+        "balance": 20000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC654",
+        "productName": "Loan",
+        "creditLimit": 7500.00,
+        "currency": "USD",
+        "balance": 1200.00
+      }
+    ]
+  },
+  {
+    "customerId": "456789123",
+    "customerName": "Mia Garcia",
+    "customerProducts": [
+      {
+        "productId": "CHK456",
+        "productName": "RD",
+        "balance": 4100.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "SV456",
+        "productName": "DDS",
+        "balance": 19000.00,
+        "currency": "USD"
+      },
+      {
+        "productId": "CC456",
+        "productName": "Loan",
+        "creditLimit": 6200.00,
+        "currency": "USD",
+        "balance": 1800.00
+      }
+    ]
+  }
+]
